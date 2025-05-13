@@ -1,0 +1,26 @@
+# Godot-specific
+.import/
+.export/
+.export_presets.cfg
+.godot/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.exe
+*.apk
+*.ipa
+*.pck
+*.zip
+*.tar.gz
+*.x86_64
+*.dmg
+*.app
+
+# User settings
+*.cfg
+*.user
+*.tmp
+*.log
